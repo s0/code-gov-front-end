@@ -92,7 +92,7 @@
     "copy-webpack-plugin": "^4.5.4",
     "css-loader": "^1.0.1",
     "event-hooks-webpack-plugin": "^2.1.1",
-    "favicons-webpack-plugin": "0.0.9",
+    "favicons-webpack-plugin": "6.0.0-alpha.1",
     "file-loader": "^2.0.0",
     "gh-pages": "^2.0.1",
     "html-loader": "^0.5.5",
